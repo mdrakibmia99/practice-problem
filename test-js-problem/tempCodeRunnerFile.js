@@ -1,2 +1,0 @@
-
-reverseString(getValue);
